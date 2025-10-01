@@ -1,5 +1,5 @@
 # Implementación de MQTT sobre Wi-Fi y Bluetooth Low Energy (BLE): comparación de eficiencia en sistemas embebidos  
-### Alumno: Aguayo Virgen Brisa Julianna  
+### Alumno: Aguayo Virgen Brisa Julianna   
 
 ## Introducción  
 En el ámbito del Internet de las Cosas (IoT), el protocolo **MQTT** (Message Queuing Telemetry Transport) se ha consolidado como una de las herramientas más utilizadas para la transmisión de datos. Su modelo de publicación y suscripción facilita la comunicación entre dispositivos de manera ligera, confiable y eficiente. Sin embargo, la forma en que esos datos viajan depende de la tecnología de comunicación inalámbrica utilizada.  
